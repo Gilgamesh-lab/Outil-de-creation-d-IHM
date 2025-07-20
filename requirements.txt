@@ -1,1 +1,4 @@
 pygame
+sleep
+sys
+win32clipboard
